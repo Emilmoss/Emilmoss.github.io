@@ -1,0 +1,19 @@
+[{
+				"question": "Alabama?",
+				"answers": {
+					"a": "Birmingham",
+					"b": "Montgomery",
+					"c": "Huntsville"
+				},
+				"correctAnswer": "a"
+			},
+			{
+				"question": "Alaska?",
+				"answers": {
+					"a": "Anchorage",
+					"b": "Fairbanks",
+					"c": "Juneau"
+				},
+				"correctAnswer": "c"
+			}
+		]
